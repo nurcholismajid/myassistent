@@ -8,7 +8,7 @@ myassistent - adalah program untuk otomatisasi sebuah pekerjaan, yang sekarang m
 - Camera Ex. 1080p
 
 ### Requirement :
-```Python
+```Bash
 pip install pyttsx3
 pip install comtypes
 pip install wolframalpha
