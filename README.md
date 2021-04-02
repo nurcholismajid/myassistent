@@ -1,5 +1,5 @@
 # MY ASSISTENT
-<span style="color:red">myassistent</span> - adalah program untuk otomatisasi sebuah pekerjaan, yang sekarang masih saya kembangkan.
+myassistent - adalah program untuk otomatisasi sebuah pekerjaan, yang sekarang masih saya kembangkan.
 
 ### My Gear :
 - Python3
